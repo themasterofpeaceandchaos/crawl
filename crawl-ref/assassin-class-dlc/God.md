@@ -90,5 +90,3 @@ Nyxara's powers scale with piety stars, emphasizing stealth buildup. All cost MP
 8. **Altar/Vaults**: `dat/des/minitemple_nyxara.des` + random altar chance in `altar.cc`.  
 
 This is fully self-contained, reuses 90% existing code (e.g., invis from `make_player_see_invis_visible(false)`; stab from `weapon_stab_bonus()`; dart throwing from `ranged_attack_no_chaos()`). Venom darts align perfectly with 0.34 codebase (poison/venom brands unchanged). Balance: Fun stealth ramp-up to epic capstone.  
-
-**Next Refinement?** Lore tweaks? Specific code snippets (e.g., Shadow Cascade impl)? Or move to Assassin background? Let me know!
