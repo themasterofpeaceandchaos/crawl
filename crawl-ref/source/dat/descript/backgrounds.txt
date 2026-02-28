@@ -4,6 +4,12 @@ Air Elementalist
 Air Elementalists have learned the Shock spell. Their electrical magic can harm
 groups of foes, while their air spells assist in fighting or fleeing enemies.
 %%%%
+Assassin
+
+Assassins are masters of silent death, trained to strike unseen. They begin with
+a venom dagger, poisoned darts, and a potion of invisibility, making them experts
+at stealthy backstabs.
+%%%%
 Artificer
 
 Artificers start with a few magic wands and a club. They'll need to find better

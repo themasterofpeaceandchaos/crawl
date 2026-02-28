@@ -1,0 +1,27 @@
+enum: JOB_ASSASSIN
+name: "Assassin"
+category: Adventurer
+category_priority: 50
+str: 0
+int: 2
+dex: 8
+equipment:
+  - "dagger plus:2 brand:venom"
+  - "robe"
+  - "cloak"
+  - "dart ego:poisoned q:8"
+  - "dart ego:curare q:2"
+  - "potion of invisibility"
+recommended_species:
+  - spriggan
+  - vampire
+  - naga
+  - human
+  - felid
+skills:
+  fighting: 1
+  dodging: 2
+  stealth: 5
+  throwing: 3
+  weapon: 4
+create_enum: false
