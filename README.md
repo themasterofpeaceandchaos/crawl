@@ -106,3 +106,6 @@ Crawl uses the following open source packages; thanks to their developers:
 * The libpng library, for tiles image loading ([license](crawl-ref/docs/license/libpng-LICENSE.txt)).
 
 Thank you, and have fun crawling!
+
+# Plan
+Planning to build an Assassin OP Class along with OP equipment, God and Unique and powerful Boss.
