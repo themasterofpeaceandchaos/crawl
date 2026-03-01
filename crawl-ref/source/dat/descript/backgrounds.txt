@@ -4,11 +4,11 @@ Air Elementalist
 Air Elementalists have learned the Shock spell. Their electrical magic can harm
 groups of foes, while their air spells assist in fighting or fleeing enemies.
 %%%%
-Assassin
+Shadowblade
 
-Assassins are masters of silent death, trained to strike unseen. They begin with
-a venom dagger, poisoned darts, and a potion of invisibility, making them experts
-at stealthy backstabs.
+Shadowblades are masters of silent death, trained to strike unseen. They begin
+with a venom dagger, poisoned darts, and a potion of invisibility, making them
+experts at stealthy backstabs.
 %%%%
 Artificer
 

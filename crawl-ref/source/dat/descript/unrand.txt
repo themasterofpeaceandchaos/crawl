@@ -854,3 +854,13 @@ crown of vainglory
 An extravagant crown of gold filigree and glittering jewels that even a king
 could feel immodest wearing. It grants its wearer a regal aura the match of any
 in heaven and also a great deal of unearned confidence.
+%%%%
+Veilpiercer
+
+A quick blade of ancient design, forged in the shadows between worlds. Its edge
+seems to shimmer in and out of existence, and a potent venom coats its surface.
+Legend holds that it once belonged to Vesperian the Usurper, who used it to
+strike down his victims from the darkness before they even knew they were
+threatened. The blade thirsts for silent kills, and wounds made by it heal
+slowly, if at all.
+%%%%
